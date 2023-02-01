@@ -21,28 +21,4 @@
   "密码功能":"341615",
   "正常检测":"关闭",
   "轮播开关":"关闭",
-  "轮播列表":[
-      {
-          "轮播图片":"https://gitee.com/aztools/png/raw/master/ds.png",
-          "轮播地址":"https://aztools.bixuge.com/"
-      }
-      ],
-  "近期更新":[
-      "恋爱话术",
-      "手机号码获取",
-      "QQ号码获取",
-      "十八禁-(群文件夹里找)"
-  ],
-  "更多选项":[
-      {
-          "名称":"新冠肺炎实时疫情",
-          "网址":"https://news.qq.com/zt2020/page/feiyan.htm#/?showfxdq=1"
-      },
-      {   "名称":"COCO--业务网(免费领赞)",      
-          "网址":"https://aztools.bixuge.com/"
-      },
-      {
-          "名称":"小霸王游戏机",
-          "网址":"https://www.yikm.net/"
-      }
-      ]
+  }

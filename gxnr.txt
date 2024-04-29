@@ -1,5 +1,5 @@
 {
-    "version":"3.9kl",
+    "version":"3.9988",
     "size":"8.05",
     "url":"https://cdn.410wl.cn/api/1620057522-251.apk",
     "content":"--同步旧版本功能\n\n--同步在线\n"
